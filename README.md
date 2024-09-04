@@ -12,8 +12,7 @@ To run the application, simply execute the following command in your terminal:
 
 ```bash
 python3 main.py
-
-'''
+```
 
 ### Configuration
 
