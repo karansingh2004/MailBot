@@ -1,0 +1,15 @@
+Hello, My name is Karan Singh. I am a final year student in B.tech CSE at RPS Group of Institutions Balana Mahendragarh Haryana.
+I am interested in Web ,Software development and Data Analyst field.
+I am proficient in both Linux as well as Windows Operating system. I am certified in Git Training course and also in various Programming languages like C,C++,Java, Python, HTML, CSS, JavaScript and some latest technologies like Bootstrap, TailwindCss and ReactJs.
+Here are my work samples:
+
+1.
+https://karansingh2004.github.io/portfolio/
+
+2.
+https://karansingh2004.github.io/ReactApp-using-TailWindCSS/
+
+3.
+https://mutualism-salvages.000webhostapp.com/
+
+I will perform at my best. I assure you I will be a valuable asset to this organisation.
