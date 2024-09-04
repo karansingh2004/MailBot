@@ -10,7 +10,7 @@ This is a Python GUI mail bot built with Tkinter and Python 3. The application a
 
 To run the application, simply execute the following command in your terminal:
 
-'''bash
+```bash
 python3 main.py
 
 '''
